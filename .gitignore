@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# Editor
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Database / Logs / Temp
+*.log
+*.sqlite3
+*.db
+
+# Jupyter
+.ipynb_checkpoints
+
+# Compiled
+*.exe
+*.dll
+*.out
+*.app
+
+# Coverage
+htmlcov/
+.coverage
+coverage.xml
+.cache
+pytest_cache/
